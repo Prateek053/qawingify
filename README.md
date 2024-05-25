@@ -5,3 +5,4 @@
 3.  Amount table is also validated with the help of sorting technique to validate that amount table is sorted or not as per the requirement.
 
 ![wingify](https://github.com/Prateek053/qawingify/assets/169148312/079db6a0-798f-474d-ae28-2372549a43f5)
+
