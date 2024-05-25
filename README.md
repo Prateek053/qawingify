@@ -1,4 +1,3 @@
-# qawingify
 
 1.  Testing is done with the help of Page Object Model to test Login page and the amount table.
 2.  Login test covers at least 4 test to test the login scenerio and also error messages.
